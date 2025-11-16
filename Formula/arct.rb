@@ -1,10 +1,10 @@
 class Arct < Formula
   desc "Interactive TUI for learning shell commands - from beginner to Arch Linux mastery"
   homepage "https://arcacademy.sh"
-  url "https://github.com/metarobb/arc-academy-terminal/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "572c9d1f673fef372a66a45735f6dcab7a312e07a4d3c02517c3b92ae8d9c6a1"
+  url "https://github.com/metarobb/arc-academy-terminal/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "6ac0118d66368d0d35e1f661887fb40b01cc8c0e27d0457c0b8877e6bbb6d299"
   license "MIT"
-  version "0.1.1"
+  version "0.2.0"
 
   depends_on "rust" => :build
 
